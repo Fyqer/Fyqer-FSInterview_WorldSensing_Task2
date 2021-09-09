@@ -2,8 +2,8 @@
 Responsive layout for main page with basic elements: header, footer, side menu:
 
 # files:
-MainPage.html - html page with basic layout
+index.html- html page with basic layout
 images 
-app.py
+
 
 )
